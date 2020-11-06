@@ -1,0 +1,8 @@
+eapli/base/app/spm/console/gestaoprocessamento/LinhasProducaoPrinter.class
+eapli/base/app/spm/console/SPMApp.class
+eapli/base/app/spm/console/gestaoprocessamento/AgendarProcessamentoAction.class
+eapli/base/app/spm/console/gestaoprocessamento/IniciarProcessamentoRecorrenteUI.class
+eapli/base/app/spm/console/presentation/MainMenu.class
+eapli/base/app/spm/console/gestaoprocessamento/IniciarProcessamentoRecorrenteAction.class
+eapli/base/app/spm/console/gestaoprocessamento/OptionPrinter.class
+eapli/base/app/spm/console/gestaoprocessamento/AgendarProcessamentoUI.class

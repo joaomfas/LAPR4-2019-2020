@@ -1,0 +1,470 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Liquid Studio 2020 (https://www.liquid-technologies.com) -->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           elementFormDefault="qualified">
+
+    <xs:include schemaLocation="AuxTypes.xsd"/>
+
+
+    <!-- ************ TIPO PRODUTOS ************ -->
+    <xs:complexType name="TProdutos">
+        <xs:sequence>
+            <xs:element name="Produto" type="TProduto" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- TIPO PRODUTO-->
+    <xs:complexType name="TProduto">
+        <xs:sequence>
+            <xs:element name="CodigoFabrico" type="TCodAlphaNum"/>
+            <xs:element name="CodigoComercial" type="TCodAlphaNum"/>
+            <xs:element name="DescricaoBreve" type="TDescricao"/>
+            <xs:element name="DescricaoCompleta" type="TDescricao"/>
+            <xs:element name="Categoria" type="xs:string"/>
+            <xs:element name="UnidadeMedida" type="xs:string"/>
+            <xs:element name="HasFichaProducao" type="xs:boolean"/>
+            <xs:element name="FichaProducao" type="TFichaProducao" minOccurs="0"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- TIPO FICHA PRODUCAO-->
+    <xs:complexType name="TFichaProducao">
+        <xs:sequence>
+            <xs:element name="Componentes" type="TComponentes" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- TIPO COMPONENTES-->
+    <xs:complexType name="TComponentes">
+        <xs:sequence>
+            <xs:element name="Componente" type="TComponente" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- TIPO COMPONENTE-->
+    <xs:complexType name="TComponente">
+        <xs:sequence>
+            <!-- Considerar apenas uma informação, matéria prima ou produto.
+            o preenchimento de um implica na anulação do outro.-->
+            <xs:choice>
+                <xs:element name="MateriaPrima" type="TCodAlphaNum"/>
+                <xs:element name="Produto" type="TCodAlphaNum"/>
+            </xs:choice>
+            <xs:element name="Quantidade" type="TPositiveDouble"/>
+        </xs:sequence>
+    </xs:complexType>
+
+
+    <!-- ************ TIPO CATEGORIAS MATERIA PRIMA ************ -->
+    <xs:complexType name="TCategoriasMateriaPrima">
+        <xs:sequence>
+            <xs:element name="CategoriaMateriaPrima" type="TCategoriaMateriaPrima" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- TIPO CATEGORIA MATERIA PRIMA-->
+    <xs:complexType name="TCategoriaMateriaPrima">
+        <xs:sequence>
+            <xs:element name="CodigoCategoria" type="TCodAlphaNum"/>
+            <xs:element name="Descricao" type="TDescricao"/>
+        </xs:sequence>
+    </xs:complexType>
+
+
+    <!-- ************ TIPO MATERIAS PRIMAS ************ -->
+    <xs:complexType name="TMateriasPrimas">
+        <xs:sequence>
+            <xs:element name="MateriaPrima" type="TMateriaPrima" maxOccurs="unbounded">
+
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- TIPO MATERIA PRIMA-->
+    <xs:complexType name="TMateriaPrima">
+        <xs:sequence>
+            <xs:element name="CodigoInterno" type="TCodAlphaNum"/>
+            <xs:element name="CodigoCategoria" type="xs:string"/>
+            <xs:element name="Descricao" type="TDescricao"/>
+            <xs:element name="FichaTecnica" type="TFichaTecnica"/>
+            <xs:element name="UnidadeMedida" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- ************ TIPO DEPOSITOS ************ -->
+    <xs:complexType name="TDepositos">
+        <xs:sequence>
+            <xs:element name="Deposito" type="TDeposito" maxOccurs="unbounded" minOccurs="0"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- TIPO MATERIA PRIMA-->
+    <xs:complexType name="TDeposito">
+        <xs:sequence>
+            <xs:element name="CodigoDeposito" type="TCodAlphaNum"/>
+            <xs:element name="Descricao" type="TDescricao"/>
+        </xs:sequence>
+    </xs:complexType>
+
+
+    <!-- ************ TIPO MAQUINAS ************ -->
+    <xs:complexType name="TMaquinas">
+        <xs:sequence>
+            <xs:element name="Maquina" type="TMaquina" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- TIPO MAQUINA-->
+    <xs:complexType name="TMaquina">
+        <xs:sequence>
+            <xs:element name="CodigoInterno" type="TCodAlphaNum"/>
+            <xs:element name="DataInstalacao" type="TData"/>
+            <xs:element name="Descricao" type="TDescricao"/>
+            <xs:element name="Marca" type="TDescricao"/>
+            <xs:element name="Modelo" type="TDescricao"/>
+            <xs:element name="NumSerie" type="TDescricao"/>
+            <xs:element name="NumeroIdentificacaoUnico" type="TNumeroIdentUnico"/>
+        </xs:sequence>
+    </xs:complexType>
+
+
+    <!-- ************ TIPO LINHAS PRODUCAO ************ -->
+    <xs:complexType name="TLinhasProducao">
+        <xs:sequence>
+            <xs:element name="LinhaProducao" type="TLinhaProducao" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- TIPO LINHA DE PRODUCAO-->
+    <xs:complexType name="TLinhaProducao">
+        <xs:sequence>
+            <xs:element name="Id" type="TCodAlphaNum"/>
+            <xs:element name="Sequencias" type="TSequencias">
+                <xs:unique name="UniqueCodRefMaq">
+                    <xs:selector xpath="Sequencia"/>
+                    <xs:field xpath="Maquina"/>
+                </xs:unique>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- TIPO SEQUENCIAS-->
+    <xs:complexType name="TSequencias">
+        <xs:sequence>
+            <xs:element name="Sequencia" type="TSequencia" minOccurs="0" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- TIPO SEQUENCIA-->
+    <xs:complexType name="TSequencia">
+        <xs:sequence>
+            <xs:element name="NrSequencia" type="TPositiveDouble"/>
+            <xs:element name="Maquina" type="TCodAlphaNum"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- ************ TIPO ORDENS DE PRODUCAO ************ -->
+    <xs:complexType name="TOrdensProducao">
+        <xs:sequence>
+            <xs:element name="OrdemProducao" type="TOrdemProducao" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- TIPO ORDEM DE PRODUCAO-->
+    <xs:complexType name="TOrdemProducao">
+        <xs:sequence>
+            <xs:element name="CodOrdemProducao" type="TCodAlphaNum"/>
+            <xs:element name="Produto" type="TCodAlphaNum"/>
+            <xs:element name="Quantidade" type="TPositiveDouble"/>
+            <xs:element name="DataEmissao" type="TData"/>
+            <xs:element name="DataInicio" type="TData" minOccurs="0"/>
+            <xs:element name="DataPrevista" type="TData"/>
+            <xs:element name="DataFim" type="TData" minOccurs="0"/>
+            <xs:element name="Estado" type="TEstadoOrdProd"/>
+            <xs:element name="Encomendas" type="TEncomendas"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- TIPO ORDEM DE ENCOMENDAS-->
+    <xs:complexType name="TEncomendas">
+        <xs:sequence>
+            <xs:element name="Encomenda" type="TEncomenda" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- TIPO ORDEM DE ENCOMENDA-->
+    <xs:complexType name="TEncomenda">
+        <xs:sequence>
+            <xs:element name="CodigoEncomenda" type="TCodAlphaNum"/>
+        </xs:sequence>
+    </xs:complexType>
+
+
+    <!-- ************ TIPO EXECUCAO ORDEM PRODUCAO ************ -->
+    <xs:complexType name="TExecucoesOrdemProducao">
+        <xs:sequence>
+            <xs:element name="ExecucaoOrdemProducao" type="TExecucaoOrdemProducao"  minOccurs="0" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- TIPO EXECUCAO ORDEM PRODUCAO-->
+    <xs:complexType name="TExecucaoOrdemProducao">
+        <xs:sequence>
+            <xs:element name="CodExecucaoOrdemProducao" type="TCodAlphaNum"/>
+            <xs:element name="CodOrdemProducao" type="TCodAlphaNum"/>
+            <xs:element name="Consumos" type="TConsumos"/>
+            <xs:element name="Producoes" type="TProducoes"/>
+            <xs:element name="Estornos" type="TEstornos"/>
+            <xs:element name="Etapas" type="TEtapas"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- TIPO CONSUMOS-->
+    <xs:complexType name="TConsumos">
+        <xs:sequence>
+            <xs:element name="Consumo" type="TConsumo" minOccurs="0" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- TIPO CONSUMO-->
+    <xs:complexType name="TConsumo">
+        <xs:sequence>
+            <xs:choice>
+                <xs:element name="Produto" type="TCodAlphaNum"/>
+                <xs:element name="MateriaPrima" type="TCodAlphaNum"/>
+            </xs:choice>
+            <xs:element name="Quantidade" type="TPositiveDouble"/>
+            <xs:element name="Deposito" type="TCodAlphaNum"/>
+            <xs:element name="Desvio" type="TPositiveDouble"/>
+            <xs:element name="Data" type="TData"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- TIPO PRODUCOES-->
+    <xs:complexType name="TProducoes">
+        <xs:sequence>
+            <xs:element name="Producao" type="TProducao" minOccurs="0" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- TIPO PRODUCAO-->
+    <xs:complexType name="TProducao">
+        <xs:sequence>
+            <xs:element name="Produto" type="TCodAlphaNum"/>
+            <xs:element name="Quantidade" type="TPositiveDouble"/>
+            <xs:element name="Deposito" type="TCodAlphaNum"/>
+            <xs:element name="Lote" type="xs:string" minOccurs="0"/>
+            <xs:element name="Data" type="TData"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- TIPO ESTORNOS -->
+    <xs:complexType name="TEstornos">
+        <xs:sequence>
+            <xs:element name="Estorno" type="TEstorno" minOccurs="0" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- TIPO ESTORNO -->
+    <xs:complexType name="TEstorno">
+        <xs:sequence>
+            <xs:element name="MateriaPrima" type="TCodAlphaNum"/>
+            <xs:element name="Quantidade" type="TPositiveDouble"/>
+            <xs:element name="Deposito" type="TCodAlphaNum"/>
+            <xs:element name="Data" type="TData"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- TIPO ETAPAS -->
+    <xs:complexType name="TEtapas">
+        <xs:sequence>
+            <xs:element name="Etapa" type="TEtapa" minOccurs="0" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- TIPO ETAPA -->
+    <xs:complexType name="TEtapa">
+        <xs:sequence>
+            <xs:element name="Maquina" type="TCodAlphaNum"/>
+            <xs:element name="TempoBruto" type="xs:duration"/>
+            <xs:element name="TempoEfetivo" type="xs:duration"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- ************ CHÃO DE FÁBRICA ************ -->
+    <xs:complexType name="TChaoDeFabrica">
+        <xs:all>
+
+            <xs:element name="CategoriasMateriaPrima" type="TCategoriasMateriaPrima" minOccurs="0" maxOccurs="1">
+                <xs:unique name="UniqueCodCategoriasMateriaPrima">
+                    <xs:selector xpath="CategoriaMateriaPrima"/>
+                    <xs:field xpath="CodigoCategoria"/>
+                </xs:unique>
+            </xs:element>
+
+            <xs:element name="MateriasPrimas" type="TMateriasPrimas" minOccurs="0" maxOccurs="1">
+                <xs:unique name="UniqueCodInterno">
+                    <xs:selector xpath="MateriaPrima"/>
+                    <xs:field xpath="CodigoInterno"/>
+                </xs:unique>
+            </xs:element>
+
+            <xs:element name="Produtos" type="TProdutos" minOccurs="0" maxOccurs="1">
+                <xs:unique name="UniqueCodFabrico">
+                    <xs:selector xpath="Produto"/>
+                    <xs:field xpath="CodigoFabrico"/>
+                </xs:unique>
+                <xs:unique name="UniqueCodComercial">
+                    <xs:selector xpath="Produto"/>
+                    <xs:field xpath="CodigoComercial"/>
+                </xs:unique>
+            </xs:element>
+
+            <xs:element name="Depositos" type="TDepositos" minOccurs="0" maxOccurs="1">
+                <xs:unique name="UniqueCodDeposito">
+                    <xs:selector xpath="Deposito"/>
+                    <xs:field xpath="CodigoDeposito"/>
+                </xs:unique>
+            </xs:element>
+
+            <xs:element name="Maquinas" type="TMaquinas" minOccurs="0" maxOccurs="1">
+                <xs:unique name="UniqueCodInternoMaq">
+                    <xs:selector xpath="Maquina"/>
+                    <xs:field xpath="CodigoInterno"/>
+                </xs:unique>
+                <xs:unique name="UniqueNumIdentifUnico">
+                    <xs:selector xpath="Maquina"/>
+                    <xs:field xpath="NumeroIdentificacaoUnico"/>
+                </xs:unique>
+            </xs:element>
+
+            <xs:element name="LinhasProducao" type="TLinhasProducao" minOccurs="0" maxOccurs="1">
+                <xs:unique name="UniqueIdLinhaPrd">
+                    <xs:selector xpath="LinhaProducao"/>
+                    <xs:field xpath="Id"/>
+                </xs:unique>
+            </xs:element>
+
+            <xs:element name="OrdensProducao" type="TOrdensProducao" minOccurs="0" maxOccurs="1">
+                <xs:unique name="UniqueCodOrdemProducao">
+                    <xs:selector xpath="OrdemProducao"/>
+                    <xs:field xpath="CodOrdemProducao"/>
+                </xs:unique>
+            </xs:element>
+
+            <xs:element name="ExecucoesOrdemProducao" type="TExecucoesOrdemProducao" minOccurs="0" maxOccurs="1">
+                <xs:unique name="UniqueCodExecOrdemProd">
+                    <xs:selector xpath="ExecucaoOrdemProducao"/>
+                    <xs:field xpath="CodOrdemExecProducao"/>
+                </xs:unique>
+                <xs:unique name="UniqueCodOrdemProdExecProd">
+                    <xs:selector xpath="ExecucaoOrdemProducao"/>
+                    <xs:field xpath="CodOrdemProducao"/>
+                </xs:unique>
+            </xs:element>
+
+        </xs:all>
+    </xs:complexType>
+
+    <xs:element name="ChaoDeFabrica" type="TChaoDeFabrica">
+
+        <xs:key name="KeyCodCategoria">
+            <xs:selector xpath="CategoriasMateriaPrima/CategoriaMateriaPrima/CodigoCategoria"/>
+            <xs:field xpath="." />
+        </xs:key>
+        <xs:keyref name="KeyRefCodCategoria" refer="KeyCodCategoria">
+            <xs:selector xpath="MateriasPrimas/MateriaPrima/CodigoCategoria" />
+            <xs:field xpath="."/>
+        </xs:keyref>
+
+        <xs:key name="KeyCodMateriaPrima">
+            <xs:selector xpath="MateriasPrimas/MateriaPrima/CodigoInterno"/>
+            <xs:field xpath="." />
+        </xs:key>
+        <xs:keyref name="KeyRefKeyCodMateriaPrima" refer="KeyCodMateriaPrima">
+            <xs:selector xpath="Produtos/Produto/FichaProducao/Componentes/Componente/MateriaPrima" />
+            <xs:field xpath="."/>
+        </xs:keyref>
+
+        <xs:key name="KeyCodProduto">
+            <xs:selector xpath="Produtos/Produto/CodigoFabrico"/>
+            <xs:field xpath="." />
+        </xs:key>
+        <xs:keyref name="KeyRefCodProduto" refer="KeyCodProduto">
+            <xs:selector xpath="Produtos/Produto/FichaProducao/Componentes/Componente/Produto" />
+            <xs:field xpath="."/>
+        </xs:keyref>
+
+        <xs:key name="KeyMaquinaCodInt">
+            <xs:selector xpath="Maquinas/Maquina/CodigoInterno"/>
+            <xs:field xpath="." />
+        </xs:key>
+
+        <xs:keyref name="KeyRefMaquinaLinha" refer="KeyMaquinaCodInt">
+            <xs:selector xpath="LinhasProducao/LinhaProducao/Sequencias/Sequencia/Maquina" />
+            <xs:field xpath="."/>
+        </xs:keyref>
+
+        <xs:keyref name="KeyRefProdutoCodFabrico" refer="KeyCodProduto">
+            <xs:selector xpath="OrdensProducao/OrdemProducao/Produto" />
+            <xs:field xpath="."/>
+        </xs:keyref>
+
+        <xs:key name="KeyCodOrdemProd">
+            <xs:selector xpath="OrdensProducao/OrdemProducao/CodOrdemProducao"/>
+            <xs:field xpath="." />
+        </xs:key>
+
+        <xs:keyref name="KeyRefCodOrdemProd" refer="KeyCodOrdemProd">
+            <xs:selector xpath="ExecucoesOrdemProducao/ExecucaoOrdemProducao/CodOrdemProducao" />
+            <xs:field xpath="."/>
+        </xs:keyref>
+
+        <xs:keyref name="KeyRefProdConsumo" refer="KeyCodProduto">
+            <xs:selector xpath="ExecucoesOrdemProducao/ExecucaoOrdemProducao/Consumos/Consumo/Produto" />
+            <xs:field xpath="."/>
+        </xs:keyref>
+
+        <xs:keyref name="KeyRefMatPrimaConsumo" refer="KeyCodMateriaPrima">
+            <xs:selector xpath="ExecucoesOrdemProducao/ExecucaoOrdemProducao/Consumos/Consumo/MateriaPrima" />
+            <xs:field xpath="."/>
+        </xs:keyref>
+
+        <xs:key name="KeyCodDeposito">
+            <xs:selector xpath="Depositos/Deposito/CodigoDeposito"/>
+            <xs:field xpath="." />
+        </xs:key>
+
+        <xs:keyref name="KeyRefCodDepositoConsumos" refer="KeyCodDeposito">
+            <xs:selector xpath="ExecucoesOrdemProducao/ExecucaoOrdemProducao/Consumos/Consumo/Deposito" />
+            <xs:field xpath="."/>
+        </xs:keyref>
+
+        <xs:keyref name="KeyRefProdutoProducoes" refer="KeyCodProduto">
+            <xs:selector xpath="ExecucoesOrdemProducao/ExecucaoOrdemProducao/Producoes/Producao/Produto" />
+            <xs:field xpath="."/>
+        </xs:keyref>
+
+        <xs:keyref name="KeyRefCodDepositoProducoes" refer="KeyCodDeposito">
+            <xs:selector xpath="ExecucoesOrdemProducao/ExecucaoOrdemProducao/Producoes/Producao/Deposito" />
+            <xs:field xpath="."/>
+        </xs:keyref>
+
+        <xs:keyref name="KeyRefMatPrimaEstorno" refer="KeyCodMateriaPrima">
+            <xs:selector xpath="ExecucoesOrdemProducao/ExecucaoOrdemProducao/Estornos/Estorno/MateriaPrima" />
+            <xs:field xpath="."/>
+        </xs:keyref>
+
+        <xs:keyref name="KeyRefCodDepositoEstorno" refer="KeyCodDeposito">
+            <xs:selector xpath="ExecucoesOrdemProducao/ExecucaoOrdemProducao/Estornos/Estorno/Deposito" />
+            <xs:field xpath="."/>
+        </xs:keyref>
+
+        <xs:keyref name="KeyRefMaqEtapaExecProd" refer="KeyMaquinaCodInt">
+            <xs:selector xpath="ExecucoesOrdemProducao/ExecucaoOrdemProducao/Etapas/Etapa/Maquina" />
+            <xs:field xpath="."/>
+        </xs:keyref>
+
+    </xs:element>
+
+</xs:schema>

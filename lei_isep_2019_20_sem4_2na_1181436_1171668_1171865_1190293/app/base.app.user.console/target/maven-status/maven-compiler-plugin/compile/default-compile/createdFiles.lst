@@ -1,0 +1,7 @@
+eapli/base/app/user/console/presentation/FrontMenu.class
+eapli/base/app/user/console/BaseUserApp.class
+eapli/base/app/user/console/presentation/myuser/UserDataWidget.class
+eapli/base/app/user/console/presentation/MainMenu.class
+eapli/base/app/user/console/presentation/ClientUserBaseUI.class
+eapli/base/app/user/console/presentation/myuser/SignupRequestAction.class
+eapli/base/app/user/console/presentation/myuser/SignupRequestUI.class

@@ -1,0 +1,9 @@
+eapli/base/app/smm/console/presentation/gestaomonitorizacao/EnviarPedidoResetUI.class
+eapli/base/app/smm/console/presentation/gestaomonitorizacao/SMMServerUI.class
+eapli/base/app/smm/console/presentation/gestaomonitorizacao/VerificarEstadoMaquinasAction.class
+eapli/base/app/smm/console/presentation/gestaomonitorizacao/SMMServerAction.class
+eapli/base/app/smm/console/presentation/gestaomonitorizacao/EnviarPedidoResetAction.class
+eapli/base/app/smm/console/presentation/gestaomonitorizacao/MaquinaEstadoPrinter.class
+eapli/base/app/smm/console/SMMServer.class
+eapli/base/app/smm/console/presentation/MainMenu.class
+eapli/base/app/smm/console/presentation/gestaomonitorizacao/VerificarEstadoMaquinasUI.class

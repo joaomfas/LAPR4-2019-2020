@@ -1,0 +1,1043 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="1221" height="3026" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<rect x="664" y="25" width="106" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="717" y="36" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">CodigoCategoria</text>
+<line x1="666" y1="27" x2="674" y2="27" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="666" y1="29" x2="672" y2="29" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="666" y1="31" x2="672" y2="31" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="666" y1="33" x2="672" y2="33" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<rect x="664" y="77" width="72" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="700" y="88" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">Descricao</text>
+<line x1="666" y1="79" x2="674" y2="79" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="666" y1="81" x2="672" y2="81" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="666" y1="83" x2="672" y2="83" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="666" y1="85" x2="672" y2="85" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="654" y1="36" x2="664" y2="36" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="654" y1="88" x2="664" y2="88" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="654" y1="36" x2="654" y2="88" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="644" y1="62" x2="654" y2="62" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<path d="M610 52 L633 52 L639 58 L639 66 L633 72 L610 72 L604 66 L604 58 Z" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="607" y1="62" x2="636" y2="62" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<ellipse cx="616" cy="62" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="621" cy="62" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="626" cy="62" rx="2" ry="2" style="rgb(0,0,0)"/>
+<rect x="634" y="57" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="636" y1="62" x2="642" y2="62" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="584" y1="62" x2="604" y2="62" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<rect x="442" y="54" width="140" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="439" y="51" width="140" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="509" y="62" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">CategoriaMateriaPrima</text>
+<text x="574" y="83" style="font-family:Arial;font-size:7.2pt;fill:rgb(0,0,0);text-anchor:end;dominant-baseline:central">1..∞</text>
+<rect x="574" y="57" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="576" y1="62" x2="582" y2="62" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="419" y1="62" x2="439" y2="62" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<path d="M385 52 L408 52 L414 58 L414 66 L408 72 L385 72 L379 66 L379 58 Z" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="382" y1="62" x2="411" y2="62" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<ellipse cx="391" cy="62" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="396" cy="62" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="401" cy="62" rx="2" ry="2" style="rgb(0,0,0)"/>
+<rect x="409" y="57" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="411" y1="62" x2="417" y2="62" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="359" y1="62" x2="379" y2="62" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<rect x="208" y="51" width="146" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1;stroke-dasharray:4,1"/>
+<text x="281" y="62" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">CategoriasMateriaPrima</text>
+<rect x="349" y="57" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="351" y1="62" x2="357" y2="62" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<rect x="575" y="129" width="93" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="621.5" y="140" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">CodigoInterno</text>
+<line x1="577" y1="131" x2="585" y2="131" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="577" y1="133" x2="583" y2="133" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="577" y1="135" x2="583" y2="135" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="577" y1="137" x2="583" y2="137" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<rect x="575" y="181" width="106" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="628" y="192" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">CodigoCategoria</text>
+<line x1="577" y1="183" x2="585" y2="183" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="577" y1="185" x2="583" y2="185" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="577" y1="187" x2="583" y2="187" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="577" y1="189" x2="583" y2="189" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<rect x="575" y="233" width="72" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="611" y="244" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">Descricao</text>
+<line x1="577" y1="235" x2="585" y2="235" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="577" y1="237" x2="583" y2="237" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="577" y1="239" x2="583" y2="239" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="577" y1="241" x2="583" y2="241" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<rect x="575" y="285" width="88" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="619" y="296" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">FichaTecnica</text>
+
+<rect x="575" y="337" width="99" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="624.5" y="348" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">UnidadeMedida</text>
+<line x1="577" y1="339" x2="585" y2="339" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="577" y1="341" x2="583" y2="341" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="577" y1="343" x2="583" y2="343" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="577" y1="345" x2="583" y2="345" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="565" y1="140" x2="575" y2="140" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="565" y1="192" x2="575" y2="192" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="565" y1="244" x2="575" y2="244" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="565" y1="296" x2="575" y2="296" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="565" y1="348" x2="575" y2="348" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="565" y1="140" x2="565" y2="348" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="555" y1="244" x2="565" y2="244" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<path d="M521 234 L544 234 L550 240 L550 248 L544 254 L521 254 L515 248 L515 240 Z" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="518" y1="244" x2="547" y2="244" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<ellipse cx="527" cy="244" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="532" cy="244" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="537" cy="244" rx="2" ry="2" style="rgb(0,0,0)"/>
+<rect x="545" y="239" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="547" y1="244" x2="553" y2="244" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="495" y1="244" x2="515" y2="244" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<rect x="400" y="236" width="93" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="397" y="233" width="93" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="443.5" y="244" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">MateriaPrima</text>
+<text x="485" y="265" style="font-family:Arial;font-size:7.2pt;fill:rgb(0,0,0);text-anchor:end;dominant-baseline:central">1..∞</text>
+<rect x="485" y="239" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="487" y1="244" x2="493" y2="244" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="377" y1="244" x2="397" y2="244" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<path d="M343 234 L366 234 L372 240 L372 248 L366 254 L343 254 L337 248 L337 240 Z" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="340" y1="244" x2="369" y2="244" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<ellipse cx="349" cy="244" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="354" cy="244" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="359" cy="244" rx="2" ry="2" style="rgb(0,0,0)"/>
+<rect x="367" y="239" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="369" y1="244" x2="375" y2="244" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="317" y1="244" x2="337" y2="244" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<rect x="208" y="233" width="104" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1;stroke-dasharray:4,1"/>
+<text x="260" y="244" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">MateriasPrimas</text>
+<rect x="307" y="239" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="309" y1="244" x2="315" y2="244" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<rect x="518" y="389" width="96" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="566" y="400" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">CodigoFabrico</text>
+<line x1="520" y1="391" x2="528" y2="391" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="520" y1="393" x2="526" y2="393" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="520" y1="395" x2="526" y2="395" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="520" y1="397" x2="526" y2="397" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<rect x="518" y="441" width="108" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="572" y="452" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">CodigoComercial</text>
+<line x1="520" y1="443" x2="528" y2="443" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="520" y1="445" x2="526" y2="445" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="520" y1="447" x2="526" y2="447" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="520" y1="449" x2="526" y2="449" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<rect x="518" y="493" width="101" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="568.5" y="504" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">DescricaoBreve</text>
+<line x1="520" y1="495" x2="528" y2="495" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="520" y1="497" x2="526" y2="497" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="520" y1="499" x2="526" y2="499" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="520" y1="501" x2="526" y2="501" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<rect x="518" y="545" width="119" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="577.5" y="556" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">DescricaoCompleta</text>
+<line x1="520" y1="547" x2="528" y2="547" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="520" y1="549" x2="526" y2="549" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="520" y1="551" x2="526" y2="551" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="520" y1="553" x2="526" y2="553" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<rect x="518" y="597" width="70" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="553" y="608" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">Categoria</text>
+<line x1="520" y1="599" x2="528" y2="599" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="520" y1="601" x2="526" y2="601" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="520" y1="603" x2="526" y2="603" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="520" y1="605" x2="526" y2="605" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<rect x="518" y="649" width="99" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="567.5" y="660" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">UnidadeMedida</text>
+<line x1="520" y1="651" x2="528" y2="651" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="520" y1="653" x2="526" y2="653" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="520" y1="655" x2="526" y2="655" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="520" y1="657" x2="526" y2="657" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<rect x="518" y="701" width="116" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="576" y="712" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">HasFichaProducao</text>
+<line x1="520" y1="703" x2="528" y2="703" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="520" y1="705" x2="526" y2="705" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="520" y1="707" x2="526" y2="707" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="520" y1="709" x2="526" y2="709" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<rect x="1123" y="753" width="88" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="1167" y="764" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">MateriaPrima</text>
+<line x1="1125" y1="755" x2="1133" y2="755" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="1125" y1="757" x2="1131" y2="757" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="1125" y1="759" x2="1131" y2="759" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="1125" y1="761" x2="1131" y2="761" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<rect x="1123" y="805" width="62" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="1154" y="816" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">Produto</text>
+<line x1="1125" y1="807" x2="1133" y2="807" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="1125" y1="809" x2="1131" y2="809" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="1125" y1="811" x2="1131" y2="811" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="1125" y1="813" x2="1131" y2="813" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="1113" y1="764" x2="1123" y2="764" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="1113" y1="816" x2="1123" y2="816" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="1113" y1="764" x2="1113" y2="816" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="1103" y1="790" x2="1113" y2="790" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<path d="M1069 780 L1092 780 L1098 786 L1098 794 L1092 800 L1069 800 L1063 794 L1063 786 Z" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="1068" y1="790" x2="1072" y2="790" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="1072" y1="790" x2="1076" y2="786" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="1084" y1="786" x2="1088" y2="786" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="1084" y1="790" x2="1092" y2="790" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="1084" y1="794" x2="1088" y2="794" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="1088" y1="786" x2="1088" y2="794" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<ellipse cx="1080" cy="786" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="1080" cy="790" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="1080" cy="794" rx="2" ry="2" style="rgb(0,0,0)"/>
+<rect x="1093" y="785" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="1095" y1="790" x2="1101" y2="790" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<rect x="1063" y="857" width="79" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="1102.5" y="868" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">Quantidade</text>
+<line x1="1065" y1="859" x2="1073" y2="859" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="1065" y1="861" x2="1071" y2="861" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="1065" y1="863" x2="1071" y2="863" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="1065" y1="865" x2="1071" y2="865" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="1053" y1="790" x2="1063" y2="790" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="1053" y1="868" x2="1063" y2="868" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="1053" y1="790" x2="1053" y2="868" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="1043" y1="816" x2="1053" y2="816" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<path d="M1009 806 L1032 806 L1038 812 L1038 820 L1032 826 L1009 826 L1003 820 L1003 812 Z" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="1006" y1="816" x2="1035" y2="816" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<ellipse cx="1015" cy="816" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="1020" cy="816" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="1025" cy="816" rx="2" ry="2" style="rgb(0,0,0)"/>
+<rect x="1033" y="811" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="1035" y1="816" x2="1041" y2="816" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="983" y1="816" x2="1003" y2="816" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<rect x="890" y="808" width="91" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="887" y="805" width="91" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="932.5" y="816" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">Componente</text>
+<text x="973" y="837" style="font-family:Arial;font-size:7.2pt;fill:rgb(0,0,0);text-anchor:end;dominant-baseline:central">1..∞</text>
+<rect x="973" y="811" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="975" y1="816" x2="981" y2="816" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="867" y1="816" x2="887" y2="816" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<path d="M833 806 L856 806 L862 812 L862 820 L856 826 L833 826 L827 820 L827 812 Z" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="830" y1="816" x2="859" y2="816" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<ellipse cx="839" cy="816" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="844" cy="816" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="849" cy="816" rx="2" ry="2" style="rgb(0,0,0)"/>
+<rect x="857" y="811" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="859" y1="816" x2="865" y2="816" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="807" y1="816" x2="827" y2="816" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<rect x="708" y="808" width="97" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="705" y="805" width="97" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="753.5" y="816" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">Componentes</text>
+<text x="797" y="837" style="font-family:Arial;font-size:7.2pt;fill:rgb(0,0,0);text-anchor:end;dominant-baseline:central">1..∞</text>
+<rect x="797" y="811" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="799" y1="816" x2="805" y2="816" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="685" y1="816" x2="705" y2="816" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<path d="M651 806 L674 806 L680 812 L680 820 L674 826 L651 826 L645 820 L645 812 Z" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="648" y1="816" x2="677" y2="816" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<ellipse cx="657" cy="816" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="662" cy="816" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="667" cy="816" rx="2" ry="2" style="rgb(0,0,0)"/>
+<rect x="675" y="811" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="677" y1="816" x2="683" y2="816" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="625" y1="816" x2="645" y2="816" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<rect x="518" y="805" width="102" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1;stroke-dasharray:4,1"/>
+<text x="569" y="816" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">FichaProducao</text>
+<rect x="615" y="811" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="617" y1="816" x2="623" y2="816" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="508" y1="400" x2="518" y2="400" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="508" y1="452" x2="518" y2="452" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="508" y1="504" x2="518" y2="504" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="508" y1="556" x2="518" y2="556" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="508" y1="608" x2="518" y2="608" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="508" y1="660" x2="518" y2="660" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="508" y1="712" x2="518" y2="712" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="508" y1="816" x2="518" y2="816" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="508" y1="400" x2="508" y2="816" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="498" y1="634" x2="508" y2="634" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<path d="M464 624 L487 624 L493 630 L493 638 L487 644 L464 644 L458 638 L458 630 Z" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="461" y1="634" x2="490" y2="634" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<ellipse cx="470" cy="634" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="475" cy="634" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="480" cy="634" rx="2" ry="2" style="rgb(0,0,0)"/>
+<rect x="488" y="629" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="490" y1="634" x2="496" y2="634" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="438" y1="634" x2="458" y2="634" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<rect x="369" y="626" width="67" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="366" y="623" width="67" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="399.5" y="634" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">Produto</text>
+<text x="428" y="655" style="font-family:Arial;font-size:7.2pt;fill:rgb(0,0,0);text-anchor:end;dominant-baseline:central">1..∞</text>
+<rect x="428" y="629" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="430" y1="634" x2="436" y2="634" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="346" y1="634" x2="366" y2="634" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<path d="M312 624 L335 624 L341 630 L341 638 L335 644 L312 644 L306 638 L306 630 Z" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="309" y1="634" x2="338" y2="634" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<ellipse cx="318" cy="634" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="323" cy="634" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="328" cy="634" rx="2" ry="2" style="rgb(0,0,0)"/>
+<rect x="336" y="629" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="338" y1="634" x2="344" y2="634" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="286" y1="634" x2="306" y2="634" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<rect x="208" y="623" width="73" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1;stroke-dasharray:4,1"/>
+<text x="244.5" y="634" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">Produtos</text>
+<rect x="276" y="629" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="278" y1="634" x2="284" y2="634" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<rect x="528" y="909" width="102" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="579" y="920" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">CodigoDeposito</text>
+<line x1="530" y1="911" x2="538" y2="911" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="530" y1="913" x2="536" y2="913" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="530" y1="915" x2="536" y2="915" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="530" y1="917" x2="536" y2="917" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<rect x="528" y="961" width="72" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="564" y="972" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">Descricao</text>
+<line x1="530" y1="963" x2="538" y2="963" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="530" y1="965" x2="536" y2="965" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="530" y1="967" x2="536" y2="967" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="530" y1="969" x2="536" y2="969" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="518" y1="920" x2="528" y2="920" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="518" y1="972" x2="528" y2="972" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="518" y1="920" x2="518" y2="972" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="508" y1="946" x2="518" y2="946" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<path d="M474 936 L497 936 L503 942 L503 950 L497 956 L474 956 L468 950 L468 942 Z" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="471" y1="946" x2="500" y2="946" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<ellipse cx="480" cy="946" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="485" cy="946" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="490" cy="946" rx="2" ry="2" style="rgb(0,0,0)"/>
+<rect x="498" y="941" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="500" y1="946" x2="506" y2="946" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="448" y1="946" x2="468" y2="946" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<rect x="374" y="938" width="72" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1;stroke-dasharray:4,1"/>
+<rect x="371" y="935" width="72" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1;stroke-dasharray:4,1"/>
+<text x="407" y="946" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">Deposito</text>
+<text x="438" y="967" style="font-family:Arial;font-size:7.2pt;fill:rgb(0,0,0);text-anchor:end;dominant-baseline:central">0..∞</text>
+<rect x="438" y="941" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="440" y1="946" x2="446" y2="946" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="351" y1="946" x2="371" y2="946" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<path d="M317 936 L340 936 L346 942 L346 950 L340 956 L317 956 L311 950 L311 942 Z" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="314" y1="946" x2="343" y2="946" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<ellipse cx="323" cy="946" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="328" cy="946" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="333" cy="946" rx="2" ry="2" style="rgb(0,0,0)"/>
+<rect x="341" y="941" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="343" y1="946" x2="349" y2="946" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="291" y1="946" x2="311" y2="946" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<rect x="208" y="935" width="78" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1;stroke-dasharray:4,1"/>
+<text x="247" y="946" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">Depositos</text>
+<rect x="281" y="941" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="283" y1="946" x2="289" y2="946" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<rect x="523" y="1013" width="93" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="569.5" y="1024" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">CodigoInterno</text>
+<line x1="525" y1="1015" x2="533" y2="1015" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="525" y1="1017" x2="531" y2="1017" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="525" y1="1019" x2="531" y2="1019" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="525" y1="1021" x2="531" y2="1021" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<rect x="523" y="1065" width="96" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="571" y="1076" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">DataInstalacao</text>
+<line x1="525" y1="1067" x2="533" y2="1067" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="525" y1="1069" x2="531" y2="1069" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="525" y1="1071" x2="531" y2="1071" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="525" y1="1073" x2="531" y2="1073" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<rect x="523" y="1117" width="72" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="559" y="1128" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">Descricao</text>
+<line x1="525" y1="1119" x2="533" y2="1119" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="525" y1="1121" x2="531" y2="1121" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="525" y1="1123" x2="531" y2="1123" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="525" y1="1125" x2="531" y2="1125" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<rect x="523" y="1169" width="53" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="549.5" y="1180" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">Marca</text>
+<line x1="525" y1="1171" x2="533" y2="1171" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="525" y1="1173" x2="531" y2="1173" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="525" y1="1175" x2="531" y2="1175" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="525" y1="1177" x2="531" y2="1177" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<rect x="523" y="1221" width="59" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="552.5" y="1232" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">Modelo</text>
+<line x1="525" y1="1223" x2="533" y2="1223" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="525" y1="1225" x2="531" y2="1225" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="525" y1="1227" x2="531" y2="1227" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="525" y1="1229" x2="531" y2="1229" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<rect x="523" y="1273" width="71" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="558.5" y="1284" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">NumSerie</text>
+<line x1="525" y1="1275" x2="533" y2="1275" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="525" y1="1277" x2="531" y2="1277" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="525" y1="1279" x2="531" y2="1279" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="525" y1="1281" x2="531" y2="1281" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<rect x="523" y="1325" width="153" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="599.5" y="1336" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">NumeroIdentificacaoUnico</text>
+<line x1="525" y1="1327" x2="533" y2="1327" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="525" y1="1329" x2="531" y2="1329" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="525" y1="1331" x2="531" y2="1331" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="525" y1="1333" x2="531" y2="1333" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="513" y1="1024" x2="523" y2="1024" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="513" y1="1076" x2="523" y2="1076" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="513" y1="1128" x2="523" y2="1128" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="513" y1="1180" x2="523" y2="1180" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="513" y1="1232" x2="523" y2="1232" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="513" y1="1284" x2="523" y2="1284" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="513" y1="1336" x2="523" y2="1336" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="513" y1="1024" x2="513" y2="1336" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="503" y1="1180" x2="513" y2="1180" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<path d="M469 1170 L492 1170 L498 1176 L498 1184 L492 1190 L469 1190 L463 1184 L463 1176 Z" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="466" y1="1180" x2="495" y2="1180" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<ellipse cx="475" cy="1180" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="480" cy="1180" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="485" cy="1180" rx="2" ry="2" style="rgb(0,0,0)"/>
+<rect x="493" y="1175" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="495" y1="1180" x2="501" y2="1180" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="443" y1="1180" x2="463" y2="1180" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<rect x="371" y="1172" width="70" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="368" y="1169" width="70" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="403" y="1180" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">Maquina</text>
+<text x="433" y="1201" style="font-family:Arial;font-size:7.2pt;fill:rgb(0,0,0);text-anchor:end;dominant-baseline:central">1..∞</text>
+<rect x="433" y="1175" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="435" y1="1180" x2="441" y2="1180" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="348" y1="1180" x2="368" y2="1180" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<path d="M314 1170 L337 1170 L343 1176 L343 1184 L337 1190 L314 1190 L308 1184 L308 1176 Z" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="311" y1="1180" x2="340" y2="1180" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<ellipse cx="320" cy="1180" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="325" cy="1180" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="330" cy="1180" rx="2" ry="2" style="rgb(0,0,0)"/>
+<rect x="338" y="1175" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="340" y1="1180" x2="346" y2="1180" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="288" y1="1180" x2="308" y2="1180" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<rect x="208" y="1169" width="75" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1;stroke-dasharray:4,1"/>
+<text x="245.5" y="1180" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">Maquinas</text>
+<rect x="278" y="1175" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="280" y1="1180" x2="286" y2="1180" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<rect x="590" y="1377" width="32" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="606" y="1388" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">Id</text>
+<line x1="592" y1="1379" x2="600" y2="1379" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="592" y1="1381" x2="598" y2="1381" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="592" y1="1383" x2="598" y2="1383" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="592" y1="1385" x2="598" y2="1385" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<rect x="924" y="1429" width="86" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="967" y="1440" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">NrSequencia</text>
+<line x1="926" y1="1431" x2="934" y2="1431" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="926" y1="1433" x2="932" y2="1433" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="926" y1="1435" x2="932" y2="1435" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="926" y1="1437" x2="932" y2="1437" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<rect x="924" y="1481" width="65" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="956.5" y="1492" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">Maquina</text>
+<line x1="926" y1="1483" x2="934" y2="1483" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="926" y1="1485" x2="932" y2="1485" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="926" y1="1487" x2="932" y2="1487" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="926" y1="1489" x2="932" y2="1489" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="914" y1="1440" x2="924" y2="1440" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="914" y1="1492" x2="924" y2="1492" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="914" y1="1440" x2="914" y2="1492" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="904" y1="1466" x2="914" y2="1466" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<path d="M870 1456 L893 1456 L899 1462 L899 1470 L893 1476 L870 1476 L864 1470 L864 1462 Z" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="867" y1="1466" x2="896" y2="1466" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<ellipse cx="876" cy="1466" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="881" cy="1466" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="886" cy="1466" rx="2" ry="2" style="rgb(0,0,0)"/>
+<rect x="894" y="1461" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="896" y1="1466" x2="902" y2="1466" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="844" y1="1466" x2="864" y2="1466" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<rect x="763" y="1458" width="79" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1;stroke-dasharray:4,1"/>
+<rect x="760" y="1455" width="79" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1;stroke-dasharray:4,1"/>
+<text x="799.5" y="1466" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">Sequencia</text>
+<text x="834" y="1487" style="font-family:Arial;font-size:7.2pt;fill:rgb(0,0,0);text-anchor:end;dominant-baseline:central">0..∞</text>
+<rect x="834" y="1461" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="836" y1="1466" x2="842" y2="1466" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="740" y1="1466" x2="760" y2="1466" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<path d="M706 1456 L729 1456 L735 1462 L735 1470 L729 1476 L706 1476 L700 1470 L700 1462 Z" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="703" y1="1466" x2="732" y2="1466" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<ellipse cx="712" cy="1466" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="717" cy="1466" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="722" cy="1466" rx="2" ry="2" style="rgb(0,0,0)"/>
+<rect x="730" y="1461" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="732" y1="1466" x2="738" y2="1466" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="680" y1="1466" x2="700" y2="1466" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<rect x="590" y="1455" width="85" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="632.5" y="1466" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">Sequencias</text>
+<rect x="670" y="1461" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="672" y1="1466" x2="678" y2="1466" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="580" y1="1388" x2="590" y2="1388" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="580" y1="1466" x2="590" y2="1466" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="580" y1="1388" x2="580" y2="1466" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="570" y1="1440" x2="580" y2="1440" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<path d="M536 1430 L559 1430 L565 1436 L565 1444 L559 1450 L536 1450 L530 1444 L530 1436 Z" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="533" y1="1440" x2="562" y2="1440" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<ellipse cx="542" cy="1440" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="547" cy="1440" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="552" cy="1440" rx="2" ry="2" style="rgb(0,0,0)"/>
+<rect x="560" y="1435" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="562" y1="1440" x2="568" y2="1440" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="510" y1="1440" x2="530" y2="1440" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<rect x="405" y="1432" width="103" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="402" y="1429" width="103" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="453.5" y="1440" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">LinhaProducao</text>
+<text x="500" y="1461" style="font-family:Arial;font-size:7.2pt;fill:rgb(0,0,0);text-anchor:end;dominant-baseline:central">1..∞</text>
+<rect x="500" y="1435" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="502" y1="1440" x2="508" y2="1440" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="382" y1="1440" x2="402" y2="1440" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<path d="M348 1430 L371 1430 L377 1436 L377 1444 L371 1450 L348 1450 L342 1444 L342 1436 Z" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="345" y1="1440" x2="374" y2="1440" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<ellipse cx="354" cy="1440" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="359" cy="1440" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="364" cy="1440" rx="2" ry="2" style="rgb(0,0,0)"/>
+<rect x="372" y="1435" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="374" y1="1440" x2="380" y2="1440" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="322" y1="1440" x2="342" y2="1440" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<rect x="208" y="1429" width="109" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1;stroke-dasharray:4,1"/>
+<text x="262.5" y="1440" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">LinhasProducao</text>
+<rect x="312" y="1435" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="314" y1="1440" x2="320" y2="1440" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<rect x="598" y="1533" width="124" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="660" y="1544" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">CodOrdemProducao</text>
+<line x1="600" y1="1535" x2="608" y2="1535" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="600" y1="1537" x2="606" y2="1537" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="600" y1="1539" x2="606" y2="1539" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="600" y1="1541" x2="606" y2="1541" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<rect x="598" y="1585" width="62" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="629" y="1596" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">Produto</text>
+<line x1="600" y1="1587" x2="608" y2="1587" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="600" y1="1589" x2="606" y2="1589" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="600" y1="1591" x2="606" y2="1591" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="600" y1="1593" x2="606" y2="1593" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<rect x="598" y="1637" width="79" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="637.5" y="1648" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">Quantidade</text>
+<line x1="600" y1="1639" x2="608" y2="1639" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="600" y1="1641" x2="606" y2="1641" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="600" y1="1643" x2="606" y2="1643" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="600" y1="1645" x2="606" y2="1645" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<rect x="598" y="1689" width="88" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="642" y="1700" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">DataEmissao</text>
+<line x1="600" y1="1691" x2="608" y2="1691" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="600" y1="1693" x2="606" y2="1693" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="600" y1="1695" x2="606" y2="1695" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="600" y1="1697" x2="606" y2="1697" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<rect x="598" y="1741" width="72" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1;stroke-dasharray:4,1"/>
+<text x="634" y="1752" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">DataInicio</text>
+<line x1="600" y1="1743" x2="608" y2="1743" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="600" y1="1745" x2="606" y2="1745" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="600" y1="1747" x2="606" y2="1747" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="600" y1="1749" x2="606" y2="1749" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<rect x="598" y="1793" width="85" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="640.5" y="1804" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">DataPrevista</text>
+<line x1="600" y1="1795" x2="608" y2="1795" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="600" y1="1797" x2="606" y2="1797" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="600" y1="1799" x2="606" y2="1799" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="600" y1="1801" x2="606" y2="1801" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<rect x="598" y="1845" width="63" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1;stroke-dasharray:4,1"/>
+<text x="629.5" y="1856" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">DataFim</text>
+<line x1="600" y1="1847" x2="608" y2="1847" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="600" y1="1849" x2="606" y2="1849" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="600" y1="1851" x2="606" y2="1851" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="600" y1="1853" x2="606" y2="1853" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<rect x="598" y="1897" width="57" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="626.5" y="1908" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">Estado</text>
+<line x1="600" y1="1899" x2="608" y2="1899" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="600" y1="1901" x2="606" y2="1901" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="600" y1="1903" x2="606" y2="1903" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="600" y1="1905" x2="606" y2="1905" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<rect x="946" y="1949" width="117" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="1004.5" y="1960" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">CodigoEncomenda</text>
+<line x1="948" y1="1951" x2="956" y2="1951" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="948" y1="1953" x2="954" y2="1953" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="948" y1="1955" x2="954" y2="1955" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="948" y1="1957" x2="954" y2="1957" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="926" y1="1960" x2="946" y2="1960" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<path d="M892 1950 L915 1950 L921 1956 L921 1964 L915 1970 L892 1970 L886 1964 L886 1956 Z" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="889" y1="1960" x2="918" y2="1960" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<ellipse cx="898" cy="1960" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="903" cy="1960" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="908" cy="1960" rx="2" ry="2" style="rgb(0,0,0)"/>
+<rect x="916" y="1955" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="918" y1="1960" x2="924" y2="1960" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="866" y1="1960" x2="886" y2="1960" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<rect x="778" y="1952" width="86" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="775" y="1949" width="86" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="818" y="1960" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">Encomenda</text>
+<text x="856" y="1981" style="font-family:Arial;font-size:7.2pt;fill:rgb(0,0,0);text-anchor:end;dominant-baseline:central">1..∞</text>
+<rect x="856" y="1955" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="858" y1="1960" x2="864" y2="1960" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="755" y1="1960" x2="775" y2="1960" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<path d="M721 1950 L744 1950 L750 1956 L750 1964 L744 1970 L721 1970 L715 1964 L715 1956 Z" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="718" y1="1960" x2="747" y2="1960" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<ellipse cx="727" cy="1960" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="732" cy="1960" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="737" cy="1960" rx="2" ry="2" style="rgb(0,0,0)"/>
+<rect x="745" y="1955" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="747" y1="1960" x2="753" y2="1960" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="695" y1="1960" x2="715" y2="1960" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<rect x="598" y="1949" width="92" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="644" y="1960" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">Encomendas</text>
+<rect x="685" y="1955" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="687" y1="1960" x2="693" y2="1960" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="588" y1="1544" x2="598" y2="1544" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="588" y1="1596" x2="598" y2="1596" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="588" y1="1648" x2="598" y2="1648" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="588" y1="1700" x2="598" y2="1700" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="588" y1="1752" x2="598" y2="1752" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="588" y1="1804" x2="598" y2="1804" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="588" y1="1856" x2="598" y2="1856" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="588" y1="1908" x2="598" y2="1908" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="588" y1="1960" x2="598" y2="1960" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="588" y1="1544" x2="588" y2="1960" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="578" y1="1752" x2="588" y2="1752" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<path d="M544 1742 L567 1742 L573 1748 L573 1756 L567 1762 L544 1762 L538 1756 L538 1748 Z" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="541" y1="1752" x2="570" y2="1752" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<ellipse cx="550" cy="1752" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="555" cy="1752" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="560" cy="1752" rx="2" ry="2" style="rgb(0,0,0)"/>
+<rect x="568" y="1747" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="570" y1="1752" x2="576" y2="1752" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="518" y1="1752" x2="538" y2="1752" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<rect x="407" y="1744" width="109" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="404" y="1741" width="109" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="458.5" y="1752" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">OrdemProducao</text>
+<text x="508" y="1773" style="font-family:Arial;font-size:7.2pt;fill:rgb(0,0,0);text-anchor:end;dominant-baseline:central">1..∞</text>
+<rect x="508" y="1747" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="510" y1="1752" x2="516" y2="1752" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="384" y1="1752" x2="404" y2="1752" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<path d="M350 1742 L373 1742 L379 1748 L379 1756 L373 1762 L350 1762 L344 1756 L344 1748 Z" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="347" y1="1752" x2="376" y2="1752" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<ellipse cx="356" cy="1752" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="361" cy="1752" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="366" cy="1752" rx="2" ry="2" style="rgb(0,0,0)"/>
+<rect x="374" y="1747" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="376" y1="1752" x2="382" y2="1752" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="324" y1="1752" x2="344" y2="1752" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<rect x="208" y="1741" width="111" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1;stroke-dasharray:4,1"/>
+<text x="263.5" y="1752" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">OrdensProducao</text>
+<rect x="314" y="1747" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="316" y1="1752" x2="322" y2="1752" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<rect x="697" y="2001" width="148" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="771" y="2012" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">CodOrdemExecProducao</text>
+<line x1="699" y1="2003" x2="707" y2="2003" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="699" y1="2005" x2="705" y2="2005" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="699" y1="2007" x2="705" y2="2007" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="699" y1="2009" x2="705" y2="2009" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<rect x="697" y="2053" width="124" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="759" y="2064" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">CodOrdemProducao</text>
+<line x1="699" y1="2055" x2="707" y2="2055" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="699" y1="2057" x2="705" y2="2057" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="699" y1="2059" x2="705" y2="2059" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="699" y1="2061" x2="705" y2="2061" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<rect x="1083" y="2105" width="62" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="1114" y="2116" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">Produto</text>
+<line x1="1085" y1="2107" x2="1093" y2="2107" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="1085" y1="2109" x2="1091" y2="2109" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="1085" y1="2111" x2="1091" y2="2111" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="1085" y1="2113" x2="1091" y2="2113" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<rect x="1083" y="2157" width="88" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="1127" y="2168" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">MateriaPrima</text>
+<line x1="1085" y1="2159" x2="1093" y2="2159" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="1085" y1="2161" x2="1091" y2="2161" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="1085" y1="2163" x2="1091" y2="2163" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="1085" y1="2165" x2="1091" y2="2165" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="1073" y1="2116" x2="1083" y2="2116" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="1073" y1="2168" x2="1083" y2="2168" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="1073" y1="2116" x2="1073" y2="2168" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="1063" y1="2142" x2="1073" y2="2142" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<path d="M1029 2132 L1052 2132 L1058 2138 L1058 2146 L1052 2152 L1029 2152 L1023 2146 L1023 2138 Z" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="1028" y1="2142" x2="1032" y2="2142" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="1032" y1="2142" x2="1036" y2="2138" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="1044" y1="2138" x2="1048" y2="2138" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="1044" y1="2142" x2="1052" y2="2142" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="1044" y1="2146" x2="1048" y2="2146" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="1048" y1="2138" x2="1048" y2="2146" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<ellipse cx="1040" cy="2138" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="1040" cy="2142" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="1040" cy="2146" rx="2" ry="2" style="rgb(0,0,0)"/>
+<rect x="1053" y="2137" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="1055" y1="2142" x2="1061" y2="2142" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<rect x="1023" y="2209" width="79" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="1062.5" y="2220" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">Quantidade</text>
+<line x1="1025" y1="2211" x2="1033" y2="2211" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="1025" y1="2213" x2="1031" y2="2213" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="1025" y1="2215" x2="1031" y2="2215" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="1025" y1="2217" x2="1031" y2="2217" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<rect x="1023" y="2261" width="67" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="1056.5" y="2272" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">Deposito</text>
+<line x1="1025" y1="2263" x2="1033" y2="2263" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="1025" y1="2265" x2="1031" y2="2265" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="1025" y1="2267" x2="1031" y2="2267" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="1025" y1="2269" x2="1031" y2="2269" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<rect x="1023" y="2313" width="57" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="1051.5" y="2324" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">Desvio</text>
+<line x1="1025" y1="2315" x2="1033" y2="2315" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="1025" y1="2317" x2="1031" y2="2317" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="1025" y1="2319" x2="1031" y2="2319" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="1025" y1="2321" x2="1031" y2="2321" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<rect x="1023" y="2365" width="45" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="1045.5" y="2376" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">Data</text>
+<line x1="1025" y1="2367" x2="1033" y2="2367" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="1025" y1="2369" x2="1031" y2="2369" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="1025" y1="2371" x2="1031" y2="2371" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="1025" y1="2373" x2="1031" y2="2373" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="1013" y1="2142" x2="1023" y2="2142" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="1013" y1="2220" x2="1023" y2="2220" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="1013" y1="2272" x2="1023" y2="2272" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="1013" y1="2324" x2="1023" y2="2324" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="1013" y1="2376" x2="1023" y2="2376" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="1013" y1="2142" x2="1013" y2="2376" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="1003" y1="2246" x2="1013" y2="2246" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<path d="M969 2236 L992 2236 L998 2242 L998 2250 L992 2256 L969 2256 L963 2250 L963 2242 Z" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="966" y1="2246" x2="995" y2="2246" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<ellipse cx="975" cy="2246" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="980" cy="2246" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="985" cy="2246" rx="2" ry="2" style="rgb(0,0,0)"/>
+<rect x="993" y="2241" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="995" y1="2246" x2="1001" y2="2246" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="943" y1="2246" x2="963" y2="2246" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<rect x="866" y="2238" width="75" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="863" y="2235" width="75" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="900.5" y="2246" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">Consumo</text>
+<text x="933" y="2267" style="font-family:Arial;font-size:7.2pt;fill:rgb(0,0,0);text-anchor:end;dominant-baseline:central">1..∞</text>
+<rect x="933" y="2241" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="935" y1="2246" x2="941" y2="2246" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="843" y1="2246" x2="863" y2="2246" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<path d="M809 2236 L832 2236 L838 2242 L838 2250 L832 2256 L809 2256 L803 2250 L803 2242 Z" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="806" y1="2246" x2="835" y2="2246" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<ellipse cx="815" cy="2246" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="820" cy="2246" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="825" cy="2246" rx="2" ry="2" style="rgb(0,0,0)"/>
+<rect x="833" y="2241" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="835" y1="2246" x2="841" y2="2246" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="783" y1="2246" x2="803" y2="2246" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<rect x="697" y="2235" width="81" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="737.5" y="2246" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">Consumos</text>
+<rect x="773" y="2241" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="775" y1="2246" x2="781" y2="2246" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<rect x="1023" y="2417" width="62" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="1054" y="2428" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">Produto</text>
+<line x1="1025" y1="2419" x2="1033" y2="2419" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="1025" y1="2421" x2="1031" y2="2421" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="1025" y1="2423" x2="1031" y2="2423" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="1025" y1="2425" x2="1031" y2="2425" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<rect x="1023" y="2469" width="79" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="1062.5" y="2480" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">Quantidade</text>
+<line x1="1025" y1="2471" x2="1033" y2="2471" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="1025" y1="2473" x2="1031" y2="2473" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="1025" y1="2475" x2="1031" y2="2475" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="1025" y1="2477" x2="1031" y2="2477" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<rect x="1023" y="2521" width="67" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="1056.5" y="2532" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">Deposito</text>
+<line x1="1025" y1="2523" x2="1033" y2="2523" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="1025" y1="2525" x2="1031" y2="2525" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="1025" y1="2527" x2="1031" y2="2527" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="1025" y1="2529" x2="1031" y2="2529" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<rect x="1023" y="2573" width="45" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1;stroke-dasharray:4,1"/>
+<text x="1045.5" y="2584" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">Lote</text>
+<line x1="1025" y1="2575" x2="1033" y2="2575" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="1025" y1="2577" x2="1031" y2="2577" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="1025" y1="2579" x2="1031" y2="2579" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="1025" y1="2581" x2="1031" y2="2581" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<rect x="1023" y="2625" width="45" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="1045.5" y="2636" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">Data</text>
+<line x1="1025" y1="2627" x2="1033" y2="2627" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="1025" y1="2629" x2="1031" y2="2629" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="1025" y1="2631" x2="1031" y2="2631" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="1025" y1="2633" x2="1031" y2="2633" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="1013" y1="2428" x2="1023" y2="2428" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="1013" y1="2480" x2="1023" y2="2480" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="1013" y1="2532" x2="1023" y2="2532" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="1013" y1="2584" x2="1023" y2="2584" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="1013" y1="2636" x2="1023" y2="2636" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="1013" y1="2428" x2="1013" y2="2636" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="1003" y1="2532" x2="1013" y2="2532" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<path d="M969 2522 L992 2522 L998 2528 L998 2536 L992 2542 L969 2542 L963 2536 L963 2528 Z" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="966" y1="2532" x2="995" y2="2532" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<ellipse cx="975" cy="2532" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="980" cy="2532" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="985" cy="2532" rx="2" ry="2" style="rgb(0,0,0)"/>
+<rect x="993" y="2527" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="995" y1="2532" x2="1001" y2="2532" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="943" y1="2532" x2="963" y2="2532" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<rect x="866" y="2524" width="75" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="863" y="2521" width="75" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="900.5" y="2532" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">Producao</text>
+<text x="933" y="2553" style="font-family:Arial;font-size:7.2pt;fill:rgb(0,0,0);text-anchor:end;dominant-baseline:central">1..∞</text>
+<rect x="933" y="2527" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="935" y1="2532" x2="941" y2="2532" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="843" y1="2532" x2="863" y2="2532" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<path d="M809 2522 L832 2522 L838 2528 L838 2536 L832 2542 L809 2542 L803 2536 L803 2528 Z" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="806" y1="2532" x2="835" y2="2532" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<ellipse cx="815" cy="2532" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="820" cy="2532" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="825" cy="2532" rx="2" ry="2" style="rgb(0,0,0)"/>
+<rect x="833" y="2527" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="835" y1="2532" x2="841" y2="2532" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="783" y1="2532" x2="803" y2="2532" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<rect x="697" y="2521" width="81" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="737.5" y="2532" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">Producoes</text>
+<rect x="773" y="2527" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="775" y1="2532" x2="781" y2="2532" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<rect x="1006" y="2677" width="88" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="1050" y="2688" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">MateriaPrima</text>
+<line x1="1008" y1="2679" x2="1016" y2="2679" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="1008" y1="2681" x2="1014" y2="2681" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="1008" y1="2683" x2="1014" y2="2683" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="1008" y1="2685" x2="1014" y2="2685" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<rect x="1006" y="2729" width="79" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="1045.5" y="2740" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">Quantidade</text>
+<line x1="1008" y1="2731" x2="1016" y2="2731" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="1008" y1="2733" x2="1014" y2="2733" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="1008" y1="2735" x2="1014" y2="2735" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="1008" y1="2737" x2="1014" y2="2737" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<rect x="1006" y="2781" width="67" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="1039.5" y="2792" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">Deposito</text>
+<line x1="1008" y1="2783" x2="1016" y2="2783" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="1008" y1="2785" x2="1014" y2="2785" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="1008" y1="2787" x2="1014" y2="2787" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="1008" y1="2789" x2="1014" y2="2789" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<rect x="1006" y="2833" width="45" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="1028.5" y="2844" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">Data</text>
+<line x1="1008" y1="2835" x2="1016" y2="2835" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="1008" y1="2837" x2="1014" y2="2837" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="1008" y1="2839" x2="1014" y2="2839" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="1008" y1="2841" x2="1014" y2="2841" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="996" y1="2688" x2="1006" y2="2688" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="996" y1="2740" x2="1006" y2="2740" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="996" y1="2792" x2="1006" y2="2792" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="996" y1="2844" x2="1006" y2="2844" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="996" y1="2688" x2="996" y2="2844" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="986" y1="2766" x2="996" y2="2766" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<path d="M952 2756 L975 2756 L981 2762 L981 2770 L975 2776 L952 2776 L946 2770 L946 2762 Z" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="949" y1="2766" x2="978" y2="2766" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<ellipse cx="958" cy="2766" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="963" cy="2766" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="968" cy="2766" rx="2" ry="2" style="rgb(0,0,0)"/>
+<rect x="976" y="2761" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="978" y1="2766" x2="984" y2="2766" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="926" y1="2766" x2="946" y2="2766" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<rect x="857" y="2758" width="67" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="854" y="2755" width="67" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="887.5" y="2766" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">Estorno</text>
+<text x="916" y="2787" style="font-family:Arial;font-size:7.2pt;fill:rgb(0,0,0);text-anchor:end;dominant-baseline:central">1..∞</text>
+<rect x="916" y="2761" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="918" y1="2766" x2="924" y2="2766" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="834" y1="2766" x2="854" y2="2766" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<path d="M800 2756 L823 2756 L829 2762 L829 2770 L823 2776 L800 2776 L794 2770 L794 2762 Z" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="797" y1="2766" x2="826" y2="2766" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<ellipse cx="806" cy="2766" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="811" cy="2766" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="816" cy="2766" rx="2" ry="2" style="rgb(0,0,0)"/>
+<rect x="824" y="2761" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="826" y1="2766" x2="832" y2="2766" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="774" y1="2766" x2="794" y2="2766" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<rect x="697" y="2755" width="72" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="733" y="2766" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">Estornos</text>
+<rect x="764" y="2761" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="766" y1="2766" x2="772" y2="2766" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<rect x="985" y="2885" width="65" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="1017.5" y="2896" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">Maquina</text>
+<line x1="987" y1="2887" x2="995" y2="2887" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="987" y1="2889" x2="993" y2="2889" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="987" y1="2891" x2="993" y2="2891" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="987" y1="2893" x2="993" y2="2893" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<rect x="985" y="2937" width="84" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="1027" y="2948" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">TempoBruto</text>
+<line x1="987" y1="2939" x2="995" y2="2939" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="987" y1="2941" x2="993" y2="2941" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="987" y1="2943" x2="993" y2="2943" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="987" y1="2945" x2="993" y2="2945" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<rect x="985" y="2989" width="91" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="1030.5" y="3000" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">TempoEfetivo</text>
+<line x1="987" y1="2991" x2="995" y2="2991" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="987" y1="2993" x2="993" y2="2993" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="987" y1="2995" x2="993" y2="2995" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="987" y1="2997" x2="993" y2="2997" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="975" y1="2896" x2="985" y2="2896" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="975" y1="2948" x2="985" y2="2948" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="975" y1="3000" x2="985" y2="3000" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="975" y1="2896" x2="975" y2="3000" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="965" y1="2948" x2="975" y2="2948" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<path d="M931 2938 L954 2938 L960 2944 L960 2952 L954 2958 L931 2958 L925 2952 L925 2944 Z" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="928" y1="2948" x2="957" y2="2948" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<ellipse cx="937" cy="2948" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="942" cy="2948" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="947" cy="2948" rx="2" ry="2" style="rgb(0,0,0)"/>
+<rect x="955" y="2943" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="957" y1="2948" x2="963" y2="2948" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="905" y1="2948" x2="925" y2="2948" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<rect x="847" y="2940" width="56" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="844" y="2937" width="56" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="872" y="2948" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">Etapa</text>
+<text x="895" y="2969" style="font-family:Arial;font-size:7.2pt;fill:rgb(0,0,0);text-anchor:end;dominant-baseline:central">1..∞</text>
+<rect x="895" y="2943" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="897" y1="2948" x2="903" y2="2948" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="824" y1="2948" x2="844" y2="2948" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<path d="M790 2938 L813 2938 L819 2944 L819 2952 L813 2958 L790 2958 L784 2952 L784 2944 Z" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="787" y1="2948" x2="816" y2="2948" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<ellipse cx="796" cy="2948" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="801" cy="2948" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="806" cy="2948" rx="2" ry="2" style="rgb(0,0,0)"/>
+<rect x="814" y="2943" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="816" y1="2948" x2="822" y2="2948" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="764" y1="2948" x2="784" y2="2948" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<rect x="697" y="2937" width="62" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="728" y="2948" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">Etapas</text>
+<rect x="754" y="2943" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="756" y1="2948" x2="762" y2="2948" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="687" y1="2012" x2="697" y2="2012" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="687" y1="2064" x2="697" y2="2064" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="687" y1="2246" x2="697" y2="2246" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="687" y1="2532" x2="697" y2="2532" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="687" y1="2766" x2="697" y2="2766" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="687" y1="2948" x2="697" y2="2948" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="687" y1="2012" x2="687" y2="2948" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="677" y1="2506" x2="687" y2="2506" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<path d="M643 2496 L666 2496 L672 2502 L672 2510 L666 2516 L643 2516 L637 2510 L637 2502 Z" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="640" y1="2506" x2="669" y2="2506" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<ellipse cx="649" cy="2506" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="654" cy="2506" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="659" cy="2506" rx="2" ry="2" style="rgb(0,0,0)"/>
+<rect x="667" y="2501" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="669" y1="2506" x2="675" y2="2506" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="617" y1="2506" x2="637" y2="2506" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<rect x="458" y="2498" width="157" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="455" y="2495" width="157" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="533.5" y="2506" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">ExecucaoOrdemProducao</text>
+<text x="607" y="2527" style="font-family:Arial;font-size:7.2pt;fill:rgb(0,0,0);text-anchor:end;dominant-baseline:central">1..∞</text>
+<rect x="607" y="2501" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="609" y1="2506" x2="615" y2="2506" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="435" y1="2506" x2="455" y2="2506" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<path d="M401 2496 L424 2496 L430 2502 L430 2510 L424 2516 L401 2516 L395 2510 L395 2502 Z" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="398" y1="2506" x2="427" y2="2506" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<ellipse cx="407" cy="2506" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="412" cy="2506" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="417" cy="2506" rx="2" ry="2" style="rgb(0,0,0)"/>
+<rect x="425" y="2501" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="427" y1="2506" x2="433" y2="2506" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="375" y1="2506" x2="395" y2="2506" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<rect x="208" y="2495" width="162" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1;stroke-dasharray:4,1"/>
+<text x="289" y="2506" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">ExecucoesOrdemProducao</text>
+<rect x="365" y="2501" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="367" y1="2506" x2="373" y2="2506" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="198" y1="62" x2="208" y2="62" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="198" y1="244" x2="208" y2="244" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="198" y1="634" x2="208" y2="634" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="198" y1="946" x2="208" y2="946" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="198" y1="1180" x2="208" y2="1180" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="198" y1="1440" x2="208" y2="1440" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="198" y1="1752" x2="208" y2="1752" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="198" y1="2506" x2="208" y2="2506" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="198" y1="62" x2="198" y2="2506" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="188" y1="1518" x2="198" y2="1518" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<path d="M154 1508 L177 1508 L183 1514 L183 1522 L177 1528 L154 1528 L148 1522 L148 1514 Z" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="161" y1="1514" x2="157" y2="1514" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="161" y1="1518" x2="153" y2="1518" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="161" y1="1522" x2="157" y2="1522" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="157" y1="1514" x2="157" y2="1522" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="169" y1="1514" x2="173" y2="1514" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="169" y1="1518" x2="177" y2="1518" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="169" y1="1522" x2="173" y2="1522" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="173" y1="1514" x2="173" y2="1522" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<ellipse cx="165" cy="1514" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="165" cy="1518" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="165" cy="1522" rx="2" ry="2" style="rgb(0,0,0)"/>
+<rect x="178" y="1513" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="180" y1="1518" x2="186" y2="1518" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="128" y1="1518" x2="148" y2="1518" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<rect x="20" y="1507" width="103" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="71.5" y="1518" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">ChaoDeFabrica</text>
+<rect x="118" y="1513" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="120" y1="1518" x2="126" y2="1518" style="stroke:rgb(0,0,0);stroke-width:1"/>
+</svg>

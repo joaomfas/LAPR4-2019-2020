@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+
+    <xs:simpleType name="TData">
+        <xs:restriction base = "xs:string">
+            <xs:pattern value="(0[1-9]|[1-2][0-9]|3[0-1])/(0[1-9]|1[0-2])/([0-9]{4})"/>
+        </xs:restriction>
+    </xs:simpleType>
+    
+    <xs:simpleType name ="TNumeroIdentUnico">
+        <xs:restriction base = "xs:integer">
+            <xs:minInclusive value="1"/>
+            <xs:maxInclusive value="655345"/>
+        </xs:restriction>
+    </xs:simpleType>
+    
+    <xs:complexType name="TFichaTecnica">
+        <xs:attribute name="src" use="required" >
+            <xs:simpleType>
+                <xs:restriction base="xs:string">
+                    <xs:pattern value=".*(\.pdf)|(\./)"/>
+                </xs:restriction>
+            </xs:simpleType>
+        </xs:attribute>
+    </xs:complexType>
+
+    <xs:simpleType name ="TCodAlphaNum">
+            <xs:restriction base = "xs:string">
+                <xs:maxLength value="15"/>
+            </xs:restriction>
+    </xs:simpleType>
+
+    <xs:simpleType name ="TDescricao">
+        <xs:restriction base = "xs:string">
+            <xs:maxLength value="50"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:simpleType name="TEstadoOrdProd">
+        <xs:restriction base="xs:token">
+            <xs:enumeration value="PENDENTE"/>
+            <xs:enumeration value="EXECUCAO"/>
+            <xs:enumeration value="CONCLUIDA"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:simpleType name="TPositiveDouble">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="[0-9]+(\.[0-9]+)?"/>
+        </xs:restriction>
+    </xs:simpleType>
+    
+</xs:schema>

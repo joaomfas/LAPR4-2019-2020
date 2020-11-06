@@ -1,0 +1,233 @@
+<html xmlns:p="http://www.dei.isep.ipp.pt/lprog">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta charset="utf-8">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<title>Relatório</title>
+<style>
+          .header img {
+            max-width: 100%;
+          }
+          .center {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 50%;
+          }
+          h1 {
+            text-align: center;
+          }
+          h3 {
+            text-align: center;
+          }
+          h4 {
+            text-align: center;
+          }
+      </style>
+</head>
+<body>
+<div class="header"><img alt="ISEP/DEI" class="center" src="./images/logo.jpg"></div>
+<div class="container">
+<h1>
+                Relatório: Gestão de Ordens de Produção</h1>
+<h3>
+<div>
+                  Licenciatura em Engenharia Informática
+                </div>
+<div>Linguagens e Programação</div>
+<div>
+                  Ano Letivo 2019/2020
+                </div>
+</h3>
+<h2>Relatório elaborado por:</h2>
+<table border="1">
+<tr bgcolor="#FF7F00">
+<th style="text-align:center">Nome</th>
+<th style="text-align:center">Número</th>
+<th style="text-align:center">Mail</th>
+</tr>
+<tr>
+<td>Maria João Dias</td>
+<td>1171865</td>
+<td>1171865@isep.ipp.pt</td>
+</tr>
+<tr>
+<td>João Ferreira</td>
+<td>1181436</td>
+<td>1181436@isep.ipp.pt</td>
+</tr>
+<tr>
+<td>Josué Mota</td>
+<td>1171668</td>
+<td>1171668@isep.ipp.pt</td>
+</tr>
+<tr>
+<td>Thiago Farias</td>
+<td>1190293</td>
+<td>1190293@isep.ipp.pt</td>
+</tr>
+</table>
+<hr>
+<h3>Índice:</h3>
+<div>Introdução</div>
+<div>Análise</div>
+<div>Linguagem</div>
+<div>Transformações</div>
+<div>Conclusão</div>
+<div>Referências</div>
+<hr>
+<h3>Introdução</h3>
+<a>
+				Foi desenvolvido, no âmbito do 2º Semestre do 2º Ano da
+				Licenciatura
+				em Engenharia Informática (LEI), um Projeto Integrador.
+				Este projeto foi desenvolvido tendo como objetivo a aplicação dos
+				conhecimentos adquiridos em todas as Unidades Curriculares desse
+				mesmo período. Este relatório irá focar-se nos objetivos
+				relacionados com as competências adquiridas em Linguagens e Programação
+				(LPROG), tais como:
+			<br></a><a>
+				— Definir uma representação XML para um domínio específico;
+			<br></a><a>
+				— Definir a sintaxe dessa linguagem através do respetivo
+				XML Schema (XSD);
+			<br></a><a>
+				— Criar instâncias (documentos XML) e validá-las de acordo
+				com o XSD;
+			<br></a><a>
+				— Fazer transformações ao documento XML (para HTML, JSON e
+				TXT) usando XSLT e XPath.
+			<br></a><a>
+			<br></a><a>
+				O domínio definido pelo Projeto Integrador é relativo a
+				um Sistema
+				de Gestão de Ordens de Produção. O qual tem como objetivo
+				tratar e
+				armazenar a informação relativa ao decorrer de Ordens de
+				Produção. A
+				solução deve permitir ao cliente:
+			<br></a><a>
+			— Controlo de ordens de produção e respetiva execução;
+			<br></a><a>
+      	— Gestão de tempo de atividade e paragem de máquinas;
+      <br></a><a>
+				— Gestão de consumos de matérias-primas;
+			<br></a><a>
+				— Registo de quantidades efetivamente produzidas.
+			<br></a><a>
+			<br></a><hr>
+<h4>Análise</h4>
+<a>
+					Para dar resposta aos requisitos apresentados pelo Cliente,
+					foi necessário começar por analisar o domínio com o qual se está a lidar.
+					Sendo que, dessa análise pudemos destacar os seguintes pontos:
+				<br></a><a>
+					— Produtos;
+				<br></a><a>
+					— Matérias-primas;
+				<br></a><a>
+					— Máquinas;
+				<br></a><a>
+					— Linhas de produção;
+				<br></a><a>
+					— Ordens de produção;
+				<br></a><a>
+					— Execução das ordens de produção.
+				<br></a><a>
+					Tendo conhecimento das características destas entidades, foi possível
+					definir quais os seus atributos e componentes para que a estrutura
+					do ficheiro XML pudesse começar a ser pensada. Este processo
+					foi feito concorrentemente com a elaboração do XSD, uma vez que é
+					este o documento responsável pela validação da informação que consta
+					no ficheiro XML.
+				<br></a><a>
+				<br></a><hr>
+<h4>Linguagem</h4>
+<a>
+					Para a exportação de dados armazenados relativos ao domínio previamente
+					referido foi utilizado um ficheiro XML.
+					O XML (exTensible Markup Language) é uma linguagem de marcação que apresenta
+					algumas parecenças com HTML. Esta linguagem tem como finalidade o armazenamento
+					e transporte de informação e tem uma natureza auto-descritiva.[1]
+				<br></a><a>
+					O World Wide Web Consortium (W3C) começou, na década de 90, a trabalhar numa
+					linguagem que permitisse combinar a flexibilidade da SGML com a simplicidade do HTML.
+					Os príncipios do projeto eram criar uma linguagem que pudesse ser interpretada por software
+					e que se integrasse com as restantes linguagens já existentes. Sendo que, as bases
+					do XML seriam:[2]
+				<br></a><a>
+					— Separação do conteúdo da formatação;
+				<br></a><a>
+					— Simplicidade e legibilidade, tanto para humanos
+					quanto para computadores;
+				<br></a><a>
+					— Possibilidade de criação de tags sem limitação;
+				<br></a><a>
+					— Criação de arquivos para validação de estrutura;
+				<br></a><a>
+					— Interligação de bancos de dados distintos;
+				<br></a><a>
+					— Concentração na estrutura da informação e não na
+					sua aparência.
+				<br></a><a>
+				<br></a><a>
+					Para a validação dos ficheiros XML criados foi utilizada a linguagem
+					XML Schema. Esta linguagem é baseada no formato XML e tem como objetivo a definição
+					de regras de validação (esquemas) de documentos XML. Esta é uma alternativa ao DTD,
+					cuja sintaxe não é baseada em XML, e foi a primeira
+					linguagem (com este objetivo) a receber a recomentação por parte do W3C. [3]
+				<br></a><a>
+					Um ficheiro que descreve a estrutura de um documento XML recorrendo à linguagem
+					XML Schema é denominado de XSD (XML Schema Definition).
+				<br></a><a>
+					Neste trabalho encontra-se este tipo de ficheiros em
+					Relatorio.xsd ou ChaoDeFabrica.xsd. Sendo que, esses ficheiros apresentam ligações
+					para outros ficheiros onde são estipuladas as regras para os tipos complexos e simples.
+				<br></a><a>
+				<br></a><hr>
+<h4>Transformações</h4>
+<a>
+					Para transformar os documentos XML (relatório e informação do chão de fábrica) noutro tipo de ficheiros foram utilizadas duas linguagens distintas:[4]
+				<br></a><a>
+					- XSLT (eXtensible Stylesheet Language Transformations): Linguagem utilizada
+					para transformar documentos XML;
+				<br></a><a>
+					- XPath (XML Path Language): Linguagem para navegar em ficheiros XML.
+				<br></a><a>
+					É importante observar que o documento XSL não altera o documento XML original, ou seja,
+					não cria outro documento. Neste sentido, ele (o documento XSLT) atua como as folhas de
+					estilos CSS: apenas determina como o browser deve apresentar o documento XML ao qual ele
+					está associado ou anexado (de uma forma bem parecida com a usada para associar uma folha
+					de estilos CSS a um documento (X)HTML). O novo documento contém as informações do documento XML original, na íntegra,
+					como ele foi criado, porém, apresenta-as como o documento XSL determina.
+					Por outras palavras, a conversão do documento XML através do XSL cria uma versão nova do documento num formato diferente
+					 para que este possa ser usado e interpretado em ambientes e contextos.
+				<br></a><hr>
+<h3>Conclusão</h3>
+<a>
+				Uma vez que o XML foi elaborado com sucesso de acordo com a informação do domínio apresentado assim como
+				com a sua validação recorrendo a ficheiros XSD e realizadas as transformações ao documento XML
+				recorrendo a XSLT e XPath, consideramos que todos os objetivos foram concluídos com sucesso.
+			<br></a><a>
+				Consideramos ainda que a realização deste trabalho no âmbito de um Projeto Integrador permitiu
+				a melhor consolidação dos conhecimentos adquiridos em LPROG através da aplicação dos conceitos e técnicas estudados
+				aplicados a um "caso de vida real".
+			<br></a><hr>
+<h3>Referências</h3>
+<p p:id=""><span style="font-size: small;"><font size="2">https://www.w3schools.com/xml/xml_whatis.asp</font><font size="2">Introduction to XML,
+                2020-06-03).
+              </font></span></p>
+<p p:id=""><span style="font-size: small;"><font size="2">https://pt.wikipedia.org/wiki/XML</font><font size="2">Wikipedia: XML,
+                2020-06-03).
+              </font></span></p>
+<p p:id=""><span style="font-size: small;"><font size="2">https://pt.wikipedia.org/wiki/XML_Schema</font><font size="2">Wikipedia: XML Schema,
+                2020-06-03).
+              </font></span></p>
+<p p:id=""><span style="font-size: small;"><font size="2">https://www.w3schools.com/xml/xsl_languages.asp</font><font size="2">XSL(T) Languagens,
+                2020-06-07).
+              </font></span></p>
+<hr>
+<h3></h3>
+</div>
+</body>
+</html>

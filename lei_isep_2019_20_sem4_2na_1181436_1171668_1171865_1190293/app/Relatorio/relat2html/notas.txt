@@ -1,0 +1,1 @@
+xsltproc relat2html.xslt ../relat/relt.xml > relat.html

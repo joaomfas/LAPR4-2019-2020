@@ -1,0 +1,7 @@
+eapli/base/app/common/console/presentation/authz/LogoutAction.class
+eapli/base/app/common/console/presentation/authz/ChangePasswordUI.class
+eapli/base/app/common/console/presentation/authz/LoginUI.class
+eapli/base/app/common/console/presentation/authz/MyUserMenu.class
+eapli/base/app/common/console/presentation/authz/LoginAction.class
+eapli/base/app/common/console/presentation/authz/LogoutUI.class
+eapli/base/app/common/console/BaseApplication.class
